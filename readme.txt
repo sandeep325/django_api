@@ -26,5 +26,10 @@ acess update api of customer=== >
                               localhost:runingportnumber/customer-update/id
 
 acess delete api of customer=== >
-                              localhost:runingportnumber/customer-delete/id                              
+                              localhost:runingportnumber/customer-delete/id      
 
+
+=================================FOR ACCESS  ADMIN ===============================================                                                      
+ make sure first create a user via commmand
+ 
+ localhost:runingportnumber/admin
